@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/FALMOUTH/751_PRIMER/Content/Blueprints/CBP_SandboxCharacter.uasset"
+				"D:/FALMOUTH/751_PRIMER/Content/Blueprints/CBP_SandboxCharacter.uasset",
+				"D:/FALMOUTH/751_PRIMER/Content/Blueprints/Maps/TestMap.umap"
 			]
 		}
 	]
